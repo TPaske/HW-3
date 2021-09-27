@@ -2,6 +2,8 @@
 ---
 title: "[HW3 Data Wrangling]"
 description: |
+  
+  
   In this distill blog post I will be reading in the eggs data and perforrming basic data wrangling operations using dplyr functions.
 Your Name: Tyler Paske
 date: 09-26-2021
